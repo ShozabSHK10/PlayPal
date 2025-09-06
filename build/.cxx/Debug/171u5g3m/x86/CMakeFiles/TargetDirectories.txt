@@ -1,2 +1,0 @@
-C:/Users/amirs/OneDrive/Desktop/Semester 7/FYP 1/Playpal/build/.cxx/Debug/171u5g3m/x86/CMakeFiles/edit_cache.dir
-C:/Users/amirs/OneDrive/Desktop/Semester 7/FYP 1/Playpal/build/.cxx/Debug/171u5g3m/x86/CMakeFiles/rebuild_cache.dir
