@@ -1,4 +1,4 @@
-# playpal
+# Playpal
 
 A new Flutter project.
 
