@@ -1,0 +1,88 @@
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.build/
+.buildlog/
+.history
+.svn/
+.swiftpm/
+migrate_working_dir/
+
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# VS Code (uncomment if not sharing settings)
+#.vscode/
+
+# Flutter/Dart/Pub related
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+.build/
+.melos_tool/
+.metadata
+
+# iOS
+ios/Flutter/.last_build_id
+ios/Flutter/Generated.xcconfig
+ios/Flutter/Flutter.podspec
+ios/.symlinks/
+ios/Pods/
+ios/Runner/GeneratedPluginRegistrant.*
+ios/build/
+
+# Android
+android/.gradle/
+android/build/
+android/app/.cxx/
+**/generated/
+**/intermediates/
+**/outputs/
+**/release/output.json
+
+# Keep source Manifests (don’t ignore these!)
+# DO NOT ignore android/app/src/**
+
+# Firebase configs (secrets)
+android/app/google-services.json
+ios/Runner/GoogleService-Info.plist
+
+# macOS
+macos/Pods/
+macos/Flutter/GeneratedPluginRegistrant.swift
+
+# Windows/Linux
+windows/flutter/
+linux/flutter/
+
+# Web
+web/.dart_tool/
+
+# Environment variables
+.env
+
+# Archives & temp
+*.zip
+*.tar.gz
+*.tmp
+*.bak
+
+# Binary outputs
+*.apk
+*.ipa
+*.so
+*.dex
+*.aar
+
+# Node modules
+node_modules/

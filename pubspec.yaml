@@ -1,0 +1,81 @@
+name: playpal
+description: "A new Flutter project."
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.6.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cloud_functions: ^5.5.2
+  firebase_app_check: ^0.3.2+7
+  cupertino_icons: ^1.0.8
+  firebase_core: ^3.14.0
+  firebase_auth: 5.6.0
+  cloud_firestore: ^5.6.9
+  firebase_storage: ^12.4.7
+  google_sign_in: ^6.2.2
+  flutter_bloc: ^9.0.0
+  hydrated_bloc: ^10.0.0
+  intl: ^0.20.1
+  path_provider: ^2.0.9
+  equatable: ^2.0.3
+  shared_preferences: ^2.5.2
+  geolocator: ^14.0.1
+  geocoding: ^4.0.0
+  image_picker: ^1.0.4
+  image: ^4.1.3
+  permission_handler: ^11.0.1
+  firebase_messaging: 15.2.7
+  shimmer: ^3.0.0
+
+
+  async: ^2.12.0
+  fake_async: ^1.3.2
+  leak_tracker: ^10.0.8
+  material_color_utilities: ^0.11.1
+  vm_service: 15.0.0
+  google_fonts: ^6.2.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_launcher_icons: ^0.14.2
+  flutter_lints: ^6.0.0
+
+flutter_launcher_icons:
+  android: true
+  ios: true
+  image_path: "assets/icon/applogo.png"
+  adaptive_icon_background: "#FFA601"
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - lib/images/
+    - assets/icon/applogo.png
+    - assets/icon/pjl.png
+    - assets/photo/branding.png
+    - assets/photo/reliability.png
+    - assets/photo/reputation.png
+    - assets/photo/active_level.png
+    - assets/photo/achievements.png
+    - assets/photo/megaphone.png
+    - assets/photo/search.png
+    - assets/photo/location.png
+    - assets/photo/profile.png
+    - assets/photo/football.png
+    - assets/photo/edit.png
+    - assets/photo/password.png
+    - assets/photo/padlock.png
+    - assets/photo/email.png
+    - assets/photo/send.png
+    - assets/photo/chat.png
+    - assets/photo/home.png
+    - assets/photo/user.png
+    - assets/photo/setting.png
+    - assets/photo/list.png

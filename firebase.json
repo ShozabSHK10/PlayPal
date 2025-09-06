@@ -1,0 +1,25 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "playpal-b4c30",
+          "appId": "1:72118497644:android:0a52f524e5432e60924349",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "playpal-b4c30",
+          "configurations": {
+            "android": "1:72118497644:android:0a52f524e5432e60924349",
+            "ios": "1:72118497644:ios:3968e19f56a274eb924349"
+          }
+        }
+      }
+    }
+  },
+  "functions": {
+  "source": "matchNotifications"
+}
+}

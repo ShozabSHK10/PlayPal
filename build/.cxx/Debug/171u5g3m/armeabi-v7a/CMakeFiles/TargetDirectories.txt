@@ -1,0 +1,2 @@
+C:/Users/amirs/OneDrive/Desktop/Semester 7/FYP 1/Playpal/build/.cxx/Debug/171u5g3m/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/amirs/OneDrive/Desktop/Semester 7/FYP 1/Playpal/build/.cxx/Debug/171u5g3m/armeabi-v7a/CMakeFiles/rebuild_cache.dir
