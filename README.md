@@ -1,77 +1,49 @@
-<!-- PROJECT LOGO -->
-<br />
-<div align="center">
-  <a href="https://github.com/yourusername/playpal">
-    <img src="images/logo.png" alt="Logo" width="100" height="100">
-  </a>
+# 📱 PlayPal
 
-  <h3 align="center">PlayPal ⚽</h3>
+> A Flutter-powered social + sports coordination app for organizing games, chatting with teammates, and keeping the fun alive.  
+> Built because every weekend plan deserves fewer “who’s in?” texts.
 
-  <p align="center">
-    A community-driven sports management app that helps players organize matches, book grounds, manage payments, and chat in real time.
-    <br />
-    <br />
-    <a href="https://github.com/yourusername/playpal"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/yourusername/playpal">View Demo</a>
-    ·
-    <a href="https://github.com/yourusername/playpal/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
-    ·
-    <a href="https://github.com/yourusername/playpal/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
-  </p>
-</div>
+<img width="1270" height="760" alt="PlayPal" src="assets/icon/ProjectLogo.jpg" />
 
----
+## Features
 
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li><a href="#about-the-project">About The Project</a></li>
-    <li><a href="#built-with">Built With</a></li>
-    <li><a href="#getting-started">Getting Started</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-  </ol>
-</details>
+- 🔐 Firebase Authentication (Email, Google, Apple Sign-In)
+- 🏅 Player profiles with stats and availability
+- 💬 Team and match chat with media sharing
+- 📅 Match scheduling & RSVP system
+- 🏗️ Clean architecture using BLoC pattern
+- ☁️ Firestore backend + Firebase Storage
+- 📱 Cross-platform (iOS, Android, Web)
 
----
+## Screenshots
 
-## About The Project
+<img width="2000" height="1000" alt="1" src="https://github.com/user-attachments/assets/c3e7c2ad-cd74-44dd-b393-571d5efe6f3c" />
+<img width="2000" height="1000" alt="2" src="https://github.com/user-attachments/assets/89ccdf7d-d28e-4d29-a209-af5b12375b77" />
 
-[![PlayPal Screenshot][product-screenshot]](https://github.com/yourusername/playpal)
+## Quick Start
 
-PlayPal is a full-stack sports management app built to make organizing local football games simple and fun.  
-It allows users to create matches, manage payments, book grounds, and chat with teammates — all in real time.
-
-This started as a personal project and evolved into a platform that helps people connect and play the game they love.
-
----
-
-### Built With
-
-* [![Flutter][Flutter-shield]][Flutter-url]
-* [![Firebase][Firebase-shield]][Firebase-url]
-* [![Stripe][Stripe-shield]][Stripe-url]
-
----
-
-## Getting Started
-
-### Prerequisites
-
-You’ll need the following installed:
-- [Flutter](https://docs.flutter.dev/get-started/install)
-- A Firebase account
-- (Optional) A Stripe account for payments
-
-### Installation
-
-1. Clone the repo:
+1. **Clone and install**
    ```bash
-   git clone https://github.com/yourusername/playpal.git
-   cd playpal
+   git clone https://github.com//moonbase-template.git
+   cd moonbase-template
+   flutter pub get
+   ```
+
+2. **Setup Firebase**
+   - Create project at [Firebase Console](https://console.firebase.google.com)
+   - Add your app
+
+3. **Run**
+   ```bash
+   flutter run
+   ```
+
+## License
+
+MIT License - see [LICENSE](LICENSE) file
+
+---
+
+❤️ Created by [Shozab Sohail](shozabshk5@gmail.com)
+
 
