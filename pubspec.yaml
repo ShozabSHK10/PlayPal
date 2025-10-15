@@ -56,11 +56,8 @@ flutter:
   uses-material-design: true
 
   assets:
-    - lib/assets
+    - ./assets
     - assets/icon/applogo.png
-    - assets/icon/pjl.png
-    - assets/photo/branding.png
-    - assets/photo/reliability.png
     - assets/photo/reputation.png
     - assets/photo/active_level.png
     - assets/photo/achievements.png
