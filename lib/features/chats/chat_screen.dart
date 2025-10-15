@@ -2,8 +2,8 @@ import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 import 'package:intl/intl.dart';
-import 'package:playpal/pages/group_chat_members_page.dart';
-import 'package:playpal/pages/view_user_profile_page.dart';
+import 'package:playpal/features/chats/group_chat_members_page.dart';
+import 'package:playpal/features/users/view_user_profile_page.dart';
 
 class ChatScreen extends StatefulWidget {
   final String matchId;

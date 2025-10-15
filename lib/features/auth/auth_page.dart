@@ -1,10 +1,10 @@
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
-import 'package:playpal/pages/user_info_page.dart';
-import 'package:playpal/pages/home_page.dart';
-import 'package:playpal/pages/verify_email_page.dart';
-import 'package:playpal/pages/login_or_register_page.dart';
+import 'package:playpal/features/users/user_info_page.dart';
+import 'package:playpal/features/home/home_page.dart';
+import 'package:playpal/features/auth/verify_email_page.dart';
+import 'package:playpal/features/auth/login_or_register_page.dart';
 
 class AuthPage extends StatelessWidget {
   const AuthPage({super.key});

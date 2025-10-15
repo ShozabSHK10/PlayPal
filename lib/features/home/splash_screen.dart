@@ -4,9 +4,9 @@ import 'package:firebase_auth/firebase_auth.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
 
 // Screens
-import 'auth_page.dart';
+import '../auth/auth_page.dart';
 import 'home_page.dart';
-import 'user_info_page.dart';
+import '../users/user_info_page.dart';
 
 class SplashScreen extends StatefulWidget {
   const SplashScreen({super.key});

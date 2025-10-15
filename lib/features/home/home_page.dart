@@ -4,9 +4,9 @@ import 'package:flutter/material.dart';
 import 'package:intl/intl.dart';
 import 'dart:math' as math;
 //screens
-import 'package:playpal/pages/setting_page.dart';
-import 'package:playpal/pages/user_profile.dart';
-import 'package:playpal/pages/group_chat.dart';
+import 'package:playpal/features/settings/setting_page.dart';
+import 'package:playpal/features/users/user_profile.dart';
+import 'package:playpal/features/chats/group_chat.dart';
 
 class HomePage extends StatefulWidget {
   @override

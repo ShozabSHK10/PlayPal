@@ -5,7 +5,7 @@ import 'help_support_page.dart';
 import 'terms_page.dart';
 import 'privacy_policy_page.dart';
 import 'about_us_page.dart';
-import 'user_info_page.dart';
+import '../users/user_info_page.dart';
 
 class SettingsPage extends StatelessWidget {
   @override

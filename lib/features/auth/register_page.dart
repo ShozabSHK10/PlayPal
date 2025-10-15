@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:firebase_auth/firebase_auth.dart';
-import 'package:playpal/components/my_button.dart';
-import 'package:playpal/components/my_textfield.dart';
-import 'package:playpal/components/square_tile.dart';
+import 'package:playpal/core/widgets/my_button.dart';
+import 'package:playpal/core/widgets/my_textfield.dart';
+import 'package:playpal/core/widgets/square_tile.dart';
 import 'package:playpal/features/auth/data/auth_services.dart';
-import 'package:playpal/pages/verify_email_page.dart';
+import 'package:playpal/features/auth/verify_email_page.dart';
 
 class RegisterPage extends StatefulWidget {
   final Function()? onTap;

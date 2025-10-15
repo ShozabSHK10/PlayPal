@@ -52,7 +52,7 @@ class AboutUsPage extends StatelessWidget {
             ),
             SizedBox(height: 8),
             Text(
-              "• Shozab Sohail\n• Ahmed Saeed\n• Mishkat Dar\n\nSupervised by: Sir Muhammad Junaid",
+              "• Shozab Sohail",
               style: TextStyle(fontSize: 16),
             ),
             SizedBox(height: 20),

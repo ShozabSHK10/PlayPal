@@ -1,8 +1,8 @@
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
-import 'package:playpal/pages/achievements_page.dart';
-import 'package:playpal/pages/active_level_page.dart';
+import 'package:playpal/features/settings/achievements_page.dart';
+import 'package:playpal/features/settings/active_level_page.dart';
 import 'edit_profile_page.dart';
 
 class ProfilePage extends StatefulWidget {

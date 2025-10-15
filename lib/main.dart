@@ -3,24 +3,24 @@ import 'package:firebase_core/firebase_core.dart';
 import 'package:firebase_app_check/firebase_app_check.dart';
 import 'firebase_options.dart';
 import 'package:firebase_messaging/firebase_messaging.dart';
-import 'package:playpal/pages/auth_page.dart';
-import 'package:playpal/pages/splash_screen.dart';
-import 'core/theme/app_theme.dart';
+import 'package:playpal/features/auth/auth_page.dart';
+import 'package:playpal/features/home/splash_screen.dart';
+import 'core/utils/theme/app_theme.dart';
 
 // User pages
-import 'package:playpal/pages/select_location_page.dart';
-import 'package:playpal/pages/home_page.dart';
-import 'package:playpal/pages/setting_page.dart';
-import 'package:playpal/pages/user_profile.dart';
-import 'package:playpal/pages/group_chat.dart';
-import 'package:playpal/pages/create_match_page.dart';
-import 'package:playpal/pages/bookings_page.dart';
-import 'package:playpal/pages/match_details_screen.dart';
-import 'package:playpal/pages/discover_players_page.dart';
-import 'package:playpal/pages/user_announcement_page.dart';
-import 'package:playpal/pages/view_user_profile_page.dart';
-import 'package:playpal/pages/join_match_screen.dart';
-import 'package:playpal/pages/verify_email_page.dart';
+import 'package:playpal/features/home/select_location_page.dart';
+import 'package:playpal/features/home/home_page.dart';
+import 'package:playpal/features/settings/setting_page.dart';
+import 'package:playpal/features/users/user_profile.dart';
+import 'package:playpal/features/chats/group_chat.dart';
+import 'package:playpal/features/matches/create_match_page.dart';
+import 'package:playpal/features/home/bookings_page.dart';
+import 'package:playpal/features/matches/match_details_screen.dart';
+import 'package:playpal/features/users/discover_players_page.dart';
+import 'package:playpal/features/home/user_announcement_page.dart';
+import 'package:playpal/features/users/view_user_profile_page.dart';
+import 'package:playpal/features/matches/join_match_screen.dart';
+import 'package:playpal/features/auth/verify_email_page.dart';
 
 // Admin pages
 
