@@ -37,12 +37,6 @@
    flutter run
    ```
 
-## License
-
-MIT License - see [LICENSE](LICENSE) file
-
----
-
 Created by Shozab Sohail
 
 
