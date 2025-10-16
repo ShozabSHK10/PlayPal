@@ -17,8 +17,7 @@
 
 ## Screenshots
 
-<img width="2000" height="1000" alt="1" src="https://github.com/user-attachments/assets/c3e7c2ad-cd74-44dd-b393-571d5efe6f3c" />
-<img width="2000" height="1000" alt="2" src="https://github.com/user-attachments/assets/89ccdf7d-d28e-4d29-a209-af5b12375b77" />
+<img width="2100" height="1600" alt="screenshots" src="assets/icon/PlayPal-ScreenShots.png" />
 
 ## Quick Start
 
@@ -44,6 +43,6 @@ MIT License - see [LICENSE](LICENSE) file
 
 ---
 
-❤️ Created by [Shozab Sohail](shozabshk5@gmail.com)
+Created by Shozab Sohail
 
 
