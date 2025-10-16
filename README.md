@@ -1,19 +1,19 @@
 # 📱 PlayPal
 
-> A Flutter-powered social + sports coordination app for organizing games, chatting with teammates, and keeping the fun alive.  
+> A Flutter-powered sports coordination app for organizing games, chatting with teammates, and keeping the fun alive.  
 > Built because every weekend plan deserves fewer “who’s in?” texts.
 
 <img width="1270" height="760" alt="PlayPal" src="assets/icon/ProjectLogo.jpg" />
 
 ## Features
 
-- 🔐 Firebase Authentication (Email, Google, Apple Sign-In)
+- 🔐 Firebase Authentication (Email, Google Sign-In)
 - 🏅 Player profiles with stats and availability
-- 💬 Team and match chat with media sharing
+- 💬 Team and match chat 
 - 📅 Match scheduling & RSVP system
 - 🏗️ Clean architecture using BLoC pattern
 - ☁️ Firestore backend + Firebase Storage
-- 📱 Cross-platform (iOS, Android, Web)
+- 📱 Cross-platform (iOS, Android)
 
 ## Screenshots
 
@@ -23,8 +23,8 @@
 
 1. **Clone and install**
    ```bash
-   git clone https://github.com//moonbase-template.git
-   cd moonbase-template
+   git clone https://github.com/ShozabSHK10/PlayPal.git
+   cd PlayPal
    flutter pub get
    ```
 
