@@ -1,7 +1,6 @@
 # 📱 PlayPal
 
-> A Flutter-powered sports coordination app for organizing games, chatting with teammates, and keeping the fun alive.  
-> Built because every weekend plan deserves fewer “who’s in?” texts.
+>Play, plan, and connect. A Flutter-powered sports app that helps you organize games, chat with teammates, and make every weekend a win.
 
 <img width="1270" height="760" alt="PlayPal" src="assets/icon/ProjectLogo.jpg" />
 
